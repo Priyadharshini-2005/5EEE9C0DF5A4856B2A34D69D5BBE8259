@@ -21,7 +21,7 @@ class bank_account:
                 
                         
 account = bank_account()
-account.account(account_number =123456789,account_holder="priyadhashi",initial_balance=1000.0)
+account.account(account_number =123456789,account_holder="priyadhashini",initial_balance=1000.0)
 account.display_balance()
 
 ans=input('do you want deposite amount(yes/no):')
